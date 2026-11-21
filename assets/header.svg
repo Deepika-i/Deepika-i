@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d0d0d"/>
+      <stop offset="55%" stop-color="#5c0a1e"/>
+      <stop offset="100%" stop-color="#DC143C"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#800020" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#DC143C" stop-opacity="0.5"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="280" fill="url(#bg)"/>
+  <path fill="url(#wave)" d="M0,205 C250,165 750,245 1000,205 L1000,280 L0,280 Z">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0,205 C250,165 750,245 1000,205 L1000,280 L0,280 Z;
+              M0,215 C250,255 750,175 1000,215 L1000,280 L0,280 Z;
+              M0,205 C250,165 750,245 1000,205 L1000,280 L0,280 Z"/>
+  </path>
+  <path fill="#0d0d0d" fill-opacity="0.65" d="M0,235 C300,205 700,265 1000,235 L1000,280 L0,280 Z">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0,235 C300,205 700,265 1000,235 L1000,280 L0,280 Z;
+              M0,240 C300,270 700,210 1000,240 L1000,280 L0,280 Z;
+              M0,235 C300,205 700,265 1000,235 L1000,280 L0,280 Z"/>
+  </path>
+  <text x="500" y="130" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+        font-size="72" font-weight="bold" letter-spacing="14" fill="#ffffff" filter="url(#glow)">
+    DEEPIKA
+    <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/>
+  </text>
+  <text x="500" y="170" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+        font-size="18" letter-spacing="6" fill="#f2c9d2">
+    CRAFTING CLEAN CODE AND ELEGANT INTERFACES
+  </text>
+</svg>

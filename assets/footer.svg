@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#DC143C"/>
+      <stop offset="50%" stop-color="#5c0a1e"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="200" fill="url(#bg)"/>
+  <path fill="#0d0d0d" fill-opacity="0.55" d="M0,40 C250,10 750,80 1000,40 L1000,0 L0,0 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0,40 C250,10 750,80 1000,40 L1000,0 L0,0 Z;
+              M0,50 C250,85 750,15 1000,50 L1000,0 L0,0 Z;
+              M0,40 C250,10 750,80 1000,40 L1000,0 L0,0 Z"/>
+  </path>
+  <text x="500" y="125" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+        font-size="30" letter-spacing="5" fill="#ffffff" filter="url(#glow)">
+    DREAM. CODE. BUILD. REPEAT.
+  </text>
+</svg>

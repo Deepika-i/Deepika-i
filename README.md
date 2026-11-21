@@ -1,7 +1,7 @@
 <!-- ============================== HERO ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d0d,45:5c0a1e,100:DC143C&text=DEEPIKA&fontSize=78&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=fadeIn&stroke=DC143C&strokeWidth=1&desc=Crafting%20clean%20code%20%26%20elegant%20interfaces&descSize=18&descAlign=50&descAlignY=62" width="100%" alt="Deepika animated banner" />
+<img src="https://raw.githubusercontent.com/Deepika-i/Deepika-i/main/assets/header.svg" width="100%" alt="Deepika animated banner" />
 
 <a href="https://github.com/Deepika-i">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=DC143C&center=true&vCenter=true&width=640&height=50&lines=BCA+Graduate;Aspiring+Web+Developer;React+Developer;Mobile+App+Developer;Always+Learning%2C+Always+Building" alt="Typing animation" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1200&color=B3122F&center=true&vCenter=true&width=620&lines=Building+practical+projects.;Improving+my+skills+one+commit+at+a+time.;Web+%2B+Mobile+development." alt="About typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1200&color=B3122F&center=true&vCenter=true&width=620&lines=Building+practical+projects.;Improving+my+skills+one+commit+at+a+time.;Web+and+Mobile+development." alt="About typing" />
 
 </div>
 
@@ -33,7 +33,7 @@ const deepika = {
   education : "BCA Graduate (2021)",
   location  : "Tamil Nadu, India",
   interests : ["Web Development", "Mobile Development"],
-  focus     : "Building practical projects & improving my skills",
+  focus     : "Building practical projects and improving my skills",
   motto     : "Always Learning, Always Building"
 };
 ```
@@ -71,11 +71,7 @@ const deepika = {
 <td align="center" width="50%" valign="top">
 
 ### 🌹 Personal Portfolio
-*My personal developer portfolio, designed and built from scratch.*
-
-<a href="https://github.com/Deepika-i/My-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepika-i&repo=My-Portfolio&bg_color=0d0d0d&title_color=DC143C&text_color=ffffff&icon_color=DC143C&border_color=800020" alt="My-Portfolio repository card" />
-</a>
+*My personal developer portfolio, built with React and CSS.*
 
 <img src="https://skillicons.dev/icons?i=react,css&theme=dark" alt="React and CSS" />
 
@@ -89,10 +85,6 @@ const deepika = {
 
 ### 🏡 HomeEase
 *A mobile application built with React Native.*
-
-<a href="https://github.com/Deepika-i/HomeEase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepika-i&repo=HomeEase&bg_color=0d0d0d&title_color=DC143C&text_color=ffffff&icon_color=DC143C&border_color=800020" alt="HomeEase repository card" />
-</a>
 
 <img src="https://img.shields.io/badge/React_Native-800020?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0d0d" alt="React Native" />
 
@@ -138,4 +130,4 @@ const deepika = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=0:DC143C,55:5c0a1e,100:0d0d0d&text=Dream.%20Code.%20Build.%20Repeat.&fontSize=28&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%" alt="Animated footer" />
+<img src="https://raw.githubusercontent.com/Deepika-i/Deepika-i/main/assets/footer.svg" width="100%" alt="Animated footer" />
