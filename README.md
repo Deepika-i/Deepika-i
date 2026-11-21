@@ -72,14 +72,12 @@ const deepika = {
 
 ### 🌹 Personal Portfolio
 *My personal developer portfolio, designed and built from scratch.*
-*Technology : React,Css*
-
 
 <a href="https://github.com/Deepika-i/My-Portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepika-i&repo=My-Portfolio&bg_color=0d0d0d&title_color=DC143C&text_color=ffffff&icon_color=DC143C&border_color=800020" alt="My-Portfolio repository card" />
 </a>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Portfolio tech" />
+<img src="https://skillicons.dev/icons?i=react,css&theme=dark" alt="React and CSS" />
 
 <br/><br/>
 
@@ -90,14 +88,13 @@ const deepika = {
 <td align="center" width="50%" valign="top">
 
 ### 🏡 HomeEase
-*A mobile application project, deployed and live on the web.*
-*Technology : React Native*
+*A mobile application built with React Native.*
 
 <a href="https://github.com/Deepika-i/HomeEase">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepika-i&repo=HomeEase&bg_color=0d0d0d&title_color=DC143C&text_color=ffffff&icon_color=DC143C&border_color=800020" alt="HomeEase repository card" />
 </a>
 
-<img src="https://skillicons.dev/icons?i=react,js&theme=dark" alt="HomeEase tech" />
+<img src="https://img.shields.io/badge/React_Native-800020?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0d0d" alt="React Native" />
 
 <br/><br/>
 
