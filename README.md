@@ -6,11 +6,10 @@
 
 <br/>
 
-Aspiring Web Developer | BCA Graduate | Lifelong Learner 
-
-<br/>
+### Aspiring Web Developer | BCA Graduate | Lifelong Learner
 
 [![GitHub](https://img.shields.io/badge/GitHub-Deepika--i-111111?style=for-the-badge&logo=github&logoColor=EF4444)](https://github.com/Deepika-i)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7F1D1D?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-psi-eight-46.vercel.app/)
 
 </div>
 
@@ -22,53 +21,53 @@ Hello! I'm Deepika, a BCA graduate from Tamil Nadu, India.
 
 - 🎓 Bachelor of Computer Applications (BCA), 2021
 - 💻 Interested in web development and technology
-- 🌱 Currently learning web development
-- 🚀 Building personal projects and improving my practical skills
+- 🌱 Currently learning and improving my development skills
+- 🚀 Building personal projects and exploring new technologies
 - 🎯 Goal: Grow as a software and web development professional
 
 ---
 
 ## ⚡ Technical Skills
 
-### Programming & Web Development
-<p>
+Programming & Web Development
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 📱 Mobile App Development
+Mobile App Development
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Tools
-<p>
+Tools
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
 ---
 
-## 🚀 My Projects
+## 🚀 Featured Projects
 
-### 1. Personal Portfolio Website
+### 01. Personal Portfolio Website
 
 A personal developer portfolio showcasing my profile, skills and projects.
 
-- 💻 Project Type: Web Application
-- 🛠️ Technologies: React, CSS
-- 🔗 Live Demo: [Portfolio](https://my-portfolio-psi-eight-46.vercel.app/)
-- 🔗 Source Code:[View on Github](https://github.com/Deepika-i/My-Portfolio)
+- Project Type: Web Application
+- Technologies: React, CSS
+- Live Demo: [Explore Portfolio](https://my-portfolio-psi-eight-46.vercel.app/)
+- Source Code: [View on GitHub](https://github.com/Deepika-i/My-Portfolio)
 
----
-
-### 2. HomeEase – Mobile Application
+### 02. HomeEase – Mobile Application
 
 A mobile application developed to provide a convenient and user-friendly experience.
 
-- 📱 Project Type: Mobile Application
-- 🛠️ Technologies: React Native
-- 🔗 Live Demo:[HomeEase](https://homeease-rho.vercel.app/)
-- 🔗 Source Code:[View on Github](https://github.com/Deepika-i/HomeEase)
+- Project Type: Mobile Application
+- Technology: React Native
+- Live Demo: [Explore HomeEase](https://homeease-rho.vercel.app/)
+- Source Code: [View on GitHub](https://github.com/Deepika-i/HomeEase)
 
-
+---
 
 ## 📊 GitHub Statistics
 
@@ -86,6 +85,16 @@ A mobile application developed to provide a convenient and user-friendly experie
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepika-i&bg_color=0D1117&color=EF4444&line=EF4444&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
 ## 🌱 My Learning Journey
 
 - Strengthening JavaScript fundamentals
@@ -98,17 +107,23 @@ A mobile application developed to provide a convenient and user-friendly experie
 
 ## 🤝 Connect With Me
 
-<p align="center">
-<a href="https://github.com/Deepika-i">
-<img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444"/>
-</a>
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444)](https://github.com/Deepika-i)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7F1D1D?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-psi-eight-46.vercel.app/)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Deepika-i&label=PROFILE+VIEWS&color=7F1D1D&style=for-the-badge" />
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:7F1D1D,100:090909&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:7F1D1D,100:090909&height=100&section=footer" width="100%" />
 
 "Learning something new every day. Building something better every step."
 
