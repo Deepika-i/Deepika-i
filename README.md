@@ -1,130 +1,144 @@
+<!-- ============================== HERO ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:7F1D1D,100:EF4444&height=200&section=header&text=Deepika%20i&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d0d,45:5c0a1e,100:DC143C&text=DEEPIKA&fontSize=78&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=fadeIn&stroke=DC143C&strokeWidth=1&desc=Crafting%20clean%20code%20%26%20elegant%20interfaces&descSize=18&descAlign=50&descAlignY=62" width="100%" alt="Deepika animated banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;BCA+Graduate;Aspiring+Web+Developer;Learning+and+Building+Every+Day" />
+<a href="https://github.com/Deepika-i">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=DC143C&center=true&vCenter=true&width=640&height=50&lines=BCA+Graduate;Aspiring+Web+Developer;React+Developer;Mobile+App+Developer;Always+Learning%2C+Always+Building" alt="Typing animation" />
+</a>
 
 <br/>
 
-### Aspiring Web Developer | BCA Graduate | Lifelong Learner
-
-[![GitHub](https://img.shields.io/badge/GitHub-Deepika--i-111111?style=for-the-badge&logo=github&logoColor=EF4444)](https://github.com/Deepika-i)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7F1D1D?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-psi-eight-46.vercel.app/)
+<img src="https://komarev.com/ghpvc/?username=Deepika-i&label=PROFILE+VIEWS&color=800020&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/Tamil_Nadu-India-DC143C?style=for-the-badge&labelColor=0d0d0d" alt="Location" />
+<img src="https://img.shields.io/badge/BCA-Graduate_2021-800020?style=for-the-badge&labelColor=0d0d0d" alt="BCA Graduate" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0d0d0d,50:DC143C,100:0d0d0d" width="100%" alt="separator" />
 
-## 🔴 About Me
-
-Hello! I'm Deepika, a BCA graduate from Tamil Nadu, India.
-
-- 🎓 Bachelor of Computer Applications (BCA), 2021
-- 💻 Interested in web development and technology
-- 🌱 Currently learning and improving my development skills
-- 🚀 Building personal projects and exploring new technologies
-- 🎯 Goal: Grow as a software and web development professional
-
----
-
-## ⚡ Technical Skills
-
-Programming & Web Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-Mobile App Development
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 01. Personal Portfolio Website
-
-A personal developer portfolio showcasing my profile, skills and projects.
-
-- Project Type: Web Application
-- Technologies: React, CSS
-- Live Demo: [Explore Portfolio](https://my-portfolio-psi-eight-46.vercel.app/)
-- Source Code: [View on GitHub](https://github.com/Deepika-i/My-Portfolio)
-
-### 02. HomeEase – Mobile Application
-
-A mobile application developed to provide a convenient and user-friendly experience.
-
-- Project Type: Mobile Application
-- Technology: React Native
-- Live Demo: [Explore HomeEase](https://homeease-rho.vercel.app/)
-- Source Code: [View on GitHub](https://github.com/Deepika-i/HomeEase)
-
----
-
-## 📊 GitHub Statistics
+<!-- ============================== ABOUT ============================== -->
+<h2 align="center">❖ &nbsp;A B O U T &nbsp; M E&nbsp; ❖</h2>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deepika-i&show_icons=true&theme=dark&bg_color=0D1117&title_color=EF4444&icon_color=EF4444&text_color=FFFFFF&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1200&color=B3122F&center=true&vCenter=true&width=620&lines=Building+practical+projects.;Improving+my+skills+one+commit+at+a+time.;Web+%2B+Mobile+development." alt="About typing" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika-i&layout=compact&theme=dark&bg_color=0D1117&title_color=EF4444&text_color=FFFFFF&hide_border=true" />
+</div>
+
+<br/>
+
+```js
+const deepika = {
+  education : "BCA Graduate (2021)",
+  location  : "Tamil Nadu, India",
+  interests : ["Web Development", "Mobile Development"],
+  focus     : "Building practical projects & improving my skills",
+  motto     : "Always Learning, Always Building"
+};
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0d0d0d,50:800020,100:0d0d0d" width="100%" alt="separator" />
+
+<!-- ============================== SKILLS ============================== -->
+<h2 align="center">❖ &nbsp;T E C H &nbsp; S T A C K&nbsp; ❖</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-800020?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0d0d" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS3-800020?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d0d0d" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-800020?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d0d0d" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-800020?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0d0d" alt="React" />
+<br/>
+<img src="https://img.shields.io/badge/React_Native-800020?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0d0d" alt="React Native" />
+<img src="https://img.shields.io/badge/Git-800020?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d0d" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-800020?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-800020?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d0d0d" alt="VS Code" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Deepika-i&theme=dark&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark" alt="Skill icons" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0d0d0d,50:DC143C,100:0d0d0d" width="100%" alt="separator" />
 
-## 🐍 Contribution Graph
+<!-- ============================== PROJECTS ============================== -->
+<h2 align="center">❖ &nbsp;F E A T U R E D &nbsp; P R O J E C T S&nbsp; ❖</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="50%" valign="top">
+
+### 🌹 Personal Portfolio
+*My personal developer portfolio, designed and built from scratch.*
+*Technology : React,Css*
+
+
+<a href="https://github.com/Deepika-i/My-Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepika-i&repo=My-Portfolio&bg_color=0d0d0d&title_color=DC143C&text_color=ffffff&icon_color=DC143C&border_color=800020" alt="My-Portfolio repository card" />
+</a>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Portfolio tech" />
+
+<br/><br/>
+
+<a href="https://my-portfolio-psi-eight-46.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-DC143C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="Live demo" /></a>
+<a href="https://github.com/Deepika-i/My-Portfolio"><img src="https://img.shields.io/badge/REPOSITORY-800020?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="Repository" /></a>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+### 🏡 HomeEase
+*A mobile application project, deployed and live on the web.*
+*Technology : React Native*
+
+<a href="https://github.com/Deepika-i/HomeEase">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepika-i&repo=HomeEase&bg_color=0d0d0d&title_color=DC143C&text_color=ffffff&icon_color=DC143C&border_color=800020" alt="HomeEase repository card" />
+</a>
+
+<img src="https://skillicons.dev/icons?i=react,js&theme=dark" alt="HomeEase tech" />
+
+<br/><br/>
+
+<a href="https://homeease-rho.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-DC143C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="Live demo" /></a>
+<a href="https://github.com/Deepika-i/HomeEase"><img src="https://img.shields.io/badge/REPOSITORY-800020?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="Repository" /></a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0d0d0d,50:800020,100:0d0d0d" width="100%" alt="separator" />
+
+<!-- ============================== ANALYTICS ============================== -->
+<h2 align="center">❖ &nbsp;G I T H U B &nbsp; A N A L Y T I C S&nbsp; ❖</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepika-i&bg_color=0D1117&color=EF4444&line=EF4444&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## 🌱 My Learning Journey
-
-- Strengthening JavaScript fundamentals
-- Learning React development
-- Practising Git and GitHub
-- Building practical web projects
-- Improving problem-solving skills
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444)](https://github.com/Deepika-i)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7F1D1D?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-psi-eight-46.vercel.app/)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Deepika-i&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=DC143C&icon_color=DC143C&text_color=ffffff&ring_color=800020" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika-i&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=DC143C&text_color=ffffff" alt="Top languages" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Deepika-i&label=PROFILE+VIEWS&color=7F1D1D&style=for-the-badge" />
+<img src="https://streak-stats.demolab.com?user=Deepika-i&hide_border=true&background=0d0d0d&ring=DC143C&fire=DC143C&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=DC143C&sideLabels=B3122F&dates=9a9a9a&stroke=800020" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepika-i&bg_color=0d0d0d&color=ffffff&line=DC143C&point=ffffff&area=true&area_color=800020&hide_border=true&title_color=DC143C" width="100%" alt="Contribution activity graph" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Deepika-i/Deepika-i/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0d0d0d,50:DC143C,100:0d0d0d" width="100%" alt="separator" />
 
+<!-- ============================== FOOTER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:7F1D1D,100:090909&height=100&section=footer" width="100%" />
-
-"Learning something new every day. Building something better every step."
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1500&color=DC143C&center=true&vCenter=true&width=520&lines=Dream.+Code.+Build.+Repeat." alt="Footer typing" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=0:DC143C,55:5c0a1e,100:0d0d0d&text=Dream.%20Code.%20Build.%20Repeat.&fontSize=28&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%" alt="Animated footer" />
